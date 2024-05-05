@@ -1,0 +1,13 @@
+img {
+  width: 100px;
+}
+
+/* button { */
+/* display: none; */
+/* } */
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
